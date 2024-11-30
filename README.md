@@ -3,5 +3,5 @@
 - 🐍 Python & SQL user.
 - 📫 How to reach me: @simeon_97m
 - ⚡ Trying to get better everyday. 
-
+- ⚜️ Kaggle User: https://www.kaggle.com/simeonmilenovmiitev
 
